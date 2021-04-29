@@ -1,6 +1,6 @@
 # Random Quote Application
 
-This a TypeScript/React application that shows random quotes stored within the application.
+This is a TypeScript/React application that shows random quotes stored within the application.
 
 ## Getting Started with Create React App
 
@@ -30,7 +30,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Learn More
 
-Project idea was from [FreeCodeCamp](https://www.freecodecamp.org/);
+Project idea was from [FreeCodeCamp](https://www.freecodecamp.org/).
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
