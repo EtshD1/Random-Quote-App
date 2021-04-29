@@ -11,12 +11,17 @@
   transition: color 1s ease, background-color 750ms ease;
 }
 
-.quoteContainer > div {
+.quoteContainer > div > div:not(.madeBy) {
   max-width: 36rem;
   padding: 2rem 2.5rem;
   border-radius: 1rem;
   flex-grow: 1;
   text-align: center;
+}
+
+.quoteContainer > div > div.madeBy {
+  text-align: center;
+  padding: 1rem;
 }
 
 .quote {
@@ -48,4 +53,9 @@
 
 #actions > div {
   cursor: pointer;
+}
+
+.madeBy a {
+  text-decoration: none;
+  color: inherit;
 }
