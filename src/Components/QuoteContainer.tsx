@@ -4,9 +4,11 @@ import Actions from './Actions';
 import Quote from './Quote';
 
 const QuoteContainer = () => {
-  return (<div id="quote-box">
-    <Quote />
-    <Actions />
+  return (<div className={Styles.quoteContainer} id="quote-box">
+    <div>
+      <Quote />
+      <Actions />
+    </div>
   </div>);
 }
 
