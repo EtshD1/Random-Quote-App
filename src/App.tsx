@@ -1,8 +1,9 @@
 import React from 'react';
+import QuoteContainer from './Components/QuoteContainer';
 
 const App = () => {
   return (<div>
-    <h1>Random Quote Generator</h1>
+    <QuoteContainer />
   </div>);
 }
 
