@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.5eb7767e.chunk.css",
-    "main.js": "/static/js/main.09bc124f.chunk.js",
-    "main.js.map": "/static/js/main.09bc124f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.86b80d91.js",
-    "runtime-main.js.map": "/static/js/runtime-main.86b80d91.js.map",
-    "static/js/2.2fb9c29d.chunk.js": "/static/js/2.2fb9c29d.chunk.js",
-    "static/js/2.2fb9c29d.chunk.js.map": "/static/js/2.2fb9c29d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.5eb7767e.chunk.css.map": "/static/css/main.5eb7767e.chunk.css.map",
-    "static/js/2.2fb9c29d.chunk.js.LICENSE.txt": "/static/js/2.2fb9c29d.chunk.js.LICENSE.txt"
+    "main.css": "/Random-Quote-App/static/css/main.a193687a.chunk.css",
+    "main.js": "/Random-Quote-App/static/js/main.23a66160.chunk.js",
+    "main.js.map": "/Random-Quote-App/static/js/main.23a66160.chunk.js.map",
+    "runtime-main.js": "/Random-Quote-App/static/js/runtime-main.46c46d78.js",
+    "runtime-main.js.map": "/Random-Quote-App/static/js/runtime-main.46c46d78.js.map",
+    "static/js/2.2fb9c29d.chunk.js": "/Random-Quote-App/static/js/2.2fb9c29d.chunk.js",
+    "static/js/2.2fb9c29d.chunk.js.map": "/Random-Quote-App/static/js/2.2fb9c29d.chunk.js.map",
+    "index.html": "/Random-Quote-App/index.html",
+    "static/css/main.a193687a.chunk.css.map": "/Random-Quote-App/static/css/main.a193687a.chunk.css.map",
+    "static/js/2.2fb9c29d.chunk.js.LICENSE.txt": "/Random-Quote-App/static/js/2.2fb9c29d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.86b80d91.js",
+    "static/js/runtime-main.46c46d78.js",
     "static/js/2.2fb9c29d.chunk.js",
-    "static/css/main.5eb7767e.chunk.css",
-    "static/js/main.09bc124f.chunk.js"
+    "static/css/main.a193687a.chunk.css",
+    "static/js/main.23a66160.chunk.js"
   ]
 }
