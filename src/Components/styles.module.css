@@ -1,10 +1,15 @@
 .quoteContainer {
-  max-width: 36rem;
   padding: 0 1.5rem;
-  flex-grow: 1;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .quoteContainer > div {
+  max-width: 36rem;
   padding: 2rem 2.5rem;
   border-radius: 1rem;
+  flex-grow: 1;
+  text-align: center;
 }
