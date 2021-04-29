@@ -6,10 +6,46 @@
   align-items: center;
 }
 
+.quoteContainer *,
+.quoteContainer {
+  transition: color 1s ease, background-color 750ms ease;
+}
+
 .quoteContainer > div {
   max-width: 36rem;
   padding: 2rem 2.5rem;
   border-radius: 1rem;
   flex-grow: 1;
   text-align: center;
+}
+
+.quote {
+  font-weight: 700;
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+
+.author {
+  padding-bottom: 2rem;
+  font-weight: 200;
+  font-size: 1.5rem;
+  font-style: italic;
+  text-align: end;
+}
+
+#actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+#actions > div,
+#actions > a {
+  border-radius: 0.5rem;
+  padding: 1rem 0.75rem;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+#actions > div {
+  cursor: pointer;
 }
